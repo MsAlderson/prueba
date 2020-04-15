@@ -10,3 +10,6 @@ print ("hola hola")
 
 #desde la línea 5 se había borrado y no sé por qué ._. lo que sigue si va a la otra rama
 print ("tarola")
+
+#para comprobar que solo se pueden hacer pull request desde otras ramas que no sean la master
+print("ajá")
